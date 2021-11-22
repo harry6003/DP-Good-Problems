@@ -9,7 +9,7 @@
 
 #include <bits/stdc++.h>
 using namespace std;
-
+// O(2^n) Brute Force
 int fibo(int n)
 {
   if (n <= 1)
@@ -21,6 +21,7 @@ int fibo(int n)
   return a + b;
 }
 
+// O(N) Memoization
 int fibo_better(int n, int *v)
 {
   if (n <= 1)
@@ -50,10 +51,24 @@ int fibo_better(int n)
   return fibo_better(n, v);
 }
 
+// O(N) Dynamic Programming
+int fibo_DP(int n)
+{
+  vector<int> v;
+  v.push_back(0);
+  v.push_back(1);
+  for (int i = 2; i <= n; i++)
+    v.push_back(v[i - 1] + v[i - 2]);
+  return v[n];
+}
+
 int main()
 {
-  cout << fibo(45) << endl;
-  cout << fibo_better(45) << endl;
+  int n;
+  cin >> n;
+  cout << fibo(n) << endl;
+  cout << fibo_better(n) << endl;
+  cout << fibo_DP(n) << endl;
 
   return 0;
 }
