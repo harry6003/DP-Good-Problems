@@ -1,0 +1,8 @@
+1) https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns
+2) https://leetcode.com/discuss/general-discussion/1000929/solved-all-dynamic-programming-dp-problems-in-7-months
+3) https://leetcode.com/discuss/general-discussion/662866/Dynamic-Programming-for-Practice-Problems-Patterns-and-Sample-Solutions
+4) https://leetcode.com/discuss/study-guide/1437879/dynamic-programming-patterns
+5) https://leetcode.com/discuss/general-discussion/475924/my-experience-and-notes-for-learning-dp
+6) https://leetcode.com/discuss/interview-question/1380561/Template-For-Dynamic-programming
+7) https://leetcode.com/discuss/general-discussion/1069177/topic-3-dynamic-programming-patterns-i
+8) https://leetcode.com/discuss/general-discussion/1050391/Must-do-Dynamic-programming-Problems-Category-wise
