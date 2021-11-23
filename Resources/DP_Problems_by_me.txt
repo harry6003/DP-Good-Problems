@@ -6,3 +6,5 @@
 6) https://leetcode.com/discuss/interview-question/1380561/Template-For-Dynamic-programming
 7) https://leetcode.com/discuss/general-discussion/1069177/topic-3-dynamic-programming-patterns-i
 8) https://leetcode.com/discuss/general-discussion/1050391/Must-do-Dynamic-programming-Problems-Category-wise
+
+9) https://leetcode.com/problems/min-cost-climbing-stairs/discuss/773865/A-Beginner's-Guide-on-DP-validation-and-How-to-come-up-with-a-Recursive-solution-Python-3
