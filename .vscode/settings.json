@@ -3,5 +3,6 @@
   "files.associations": {
     "*.html": "html",
     "iostream": "cpp"
-  }
+  },
+  "cSpell.words": ["desr"]
 }
